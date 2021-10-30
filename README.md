@@ -16,7 +16,7 @@ const WhoAmI = {
    "Dance with my dog"],
   }
 	
- function getCurrentCity() {
+function getCurrentCity() {
 	return Santos_Brazil
   }
 	
