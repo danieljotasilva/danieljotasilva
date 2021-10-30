@@ -28,9 +28,8 @@ function Ambitions() {
 	} 
  ```
  
- 
+<div> 
 <h3 align="left">🤙🏼 little more about me...</h3>
-<div>
   <img width="200" align="right" src="https://media.giphy.com/media/12R2bKfxceemNq/giphy.gif" alt="to infinity and beyound">
   <p>🆙 I'm currently a web development student, focused on the main frontend technologies. </p>
   <p>👾 I’m currently on career transition.</p>
@@ -43,6 +42,7 @@ function Ambitions() {
  </div>
 
 #
+<div>
 <h3 align="left">🛠 &nbsp;Tech Stack</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
@@ -57,7 +57,8 @@ function Ambitions() {
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!--<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>--> 
 </p>
-
+</div>
+	
 ##
 
 <h3 align="left">Connect with me:</h3>
