@@ -10,7 +10,7 @@ const WhoAmI = {
   hobbies: [
    "Studying",
    "Drawing & Painting",
-   "NFL"
+   "NFL",
    "Watching Animation",
    "Playing Valorant & Rocket League",
    "Dance with my dog"],
