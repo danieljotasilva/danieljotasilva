@@ -21,7 +21,7 @@ function getCurrentCity() {
   }
 	
 function Ambitions() {
-	moveToSweden()
+	moveToEurope()
 	beFather()
 	workWithFrontend()
 //Assume 10 more awesome ambitions here ;)
