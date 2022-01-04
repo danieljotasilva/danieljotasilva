@@ -33,7 +33,7 @@ function Ambitions() {
   <img width="200" align="right" src="https://media.giphy.com/media/12R2bKfxceemNq/giphy.gif" alt="to infinity and beyound">
   <p>🆙 I'm currently a web development student, focused on the main frontend technologies. </p>
   <p>👾 I’m currently on career transition.</p>
-  <p>✝️ I'm catholic and vocation at <a href="https://www.youtube.com/user/comunidadecolodedeus">Colo de Deus</a>.</p>
+  <p>✝️ I'm catholic and member of <a href="https://www.youtube.com/user/comunidadecolodedeus">Colo de Deus</a>.</p>
   <p>🎨 I have some arts posted <a href="https://www.artstation.com/muraldodan">🔗 here.</a></p>
   <!--
     <p>👨‍💻 All of my projects are available <a href="https://manucoutinho.github.io/">🔗 here.</a></p>
