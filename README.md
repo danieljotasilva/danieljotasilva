@@ -5,7 +5,7 @@
 ```python
 class ProfessionalProfile:
     def __init__(self):
-        self.name = "Daniel J. Silva"
+        self.name = "Daniel João da Silva"
         self.pronouns = ["he", "him"]
         self.role = "Data Analyst"
         self.education = "Analysis and Systems Development (ADS)"
